@@ -1,4 +1,9 @@
-# binjgb
+# Tales of Fort Denial
+Tales of Fort Denial is a handmade book written, designed, printed, and bound by Marianne Dages, adapted here into an 8-bit mini adventure game by L Autumn Gnadinger using GBStudio.
+
+Learn more about Tales of Fort Denial at https://www.mariannedages.com/fortdenial
+
+## binjgb
 
 Fork of binji's Game Boy emulator built as a WebAssembly module.
 
